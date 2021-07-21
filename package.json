@@ -1,6 +1,6 @@
 {
-  "homepage": "https://amen467.github.io/personal_portfolio",
-  "name": "saadpasta.github.io",
+  "homepage": "https://amen467.github.io/my_portfolio",
+  "name": "amen467.github.io",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -49,7 +49,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "\"https://github.com/amen467/personal_portfolio.git\""
+    "url": "\"https://github.com/amen467/my_portfolio.git\""
   },
   "author": "Andrew Meneses",
   "license": "ISC"
